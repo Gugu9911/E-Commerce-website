@@ -3,7 +3,7 @@
 Dive into the code repository for GroceryHub, where convenience meets variety in online grocery shopping. Developed using the robust trio of React, TypeScript, and Redux Toolkit, this platform is engineered to deliver a top-notch, intuitive shopping experience.
 
 ## Deployment
-GroceryHub is proudly hosted on Vercel, showcasing our deployment capabilities: [Visit GroceryHub](https://e-commerce-website-beige-xi.vercel.app/).
+GroceryHub is proudly hosted on Vercel, showcasing our deployment capabilities: [Visit GroceryHub](https://e-commerce-website-five-delta.vercel.app/).
 
 ## Features 🌟
 1. **TypeScript & Redux Toolkit**: Empowering developers with type safety and efficient state management, our project is a paradigm of modern web development practices.
